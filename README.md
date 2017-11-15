@@ -1,2 +1,2 @@
-# shawncole.info
+# ShawnCole.info
 My Personal Website
