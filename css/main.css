@@ -1,5 +1,5 @@
 .bg-1 { 
-    background-color: #1abc9c;
+    background-color: #1ab1bc;
     color: #ffffff;
 }
 .bg-2 { 
@@ -28,5 +28,5 @@
     letter-spacing: 5px;
 }
 .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: #1ab1bc !important;
 }
